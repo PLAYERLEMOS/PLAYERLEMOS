@@ -7,3 +7,5 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PLAYERLEMOS&show_icons=true&count_private=true&hide_border=true&title_color=DAA520&icon_color=DAA520&text_color=A52A2A&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLAYERLEMOS&layout=compact&hide_border=true&title_color=A52A2A&text_color=A52A2A&bg_color=0d1117" />
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carolbarbosa101&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
